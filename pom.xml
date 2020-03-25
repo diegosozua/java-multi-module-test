@@ -137,6 +137,7 @@
  
   <modules>
     <module>java-multi-module-test-frontend</module>
+	<module>java-multi-module-test-frontback</module>
     <module>java-multi-module-test-backend</module>
   </modules>
 </project>
